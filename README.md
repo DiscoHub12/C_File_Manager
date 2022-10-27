@@ -12,3 +12,4 @@ There are many .h and .c files that implement the corresponding .h files.
 It was necessary to create a part that manages all the controls, 
 such as checking if the file / folder exists, checking if the folder 
 inside it is empty or much more. Until we meet again.
+Project developed in Group with : mensio @Sophiss.
